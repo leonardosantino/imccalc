@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:imccalc/pages/one_page.dart';
+import 'package:imccalc/pages/result_page.dart';
 import 'package:imccalc/pages/second_page.dart';
 import 'package:imccalc/pages/third_page.dart';
 
